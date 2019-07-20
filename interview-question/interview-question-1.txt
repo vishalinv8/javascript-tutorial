@@ -1,10 +1,10 @@
-What is JavaScript?
+#What is JavaScript?
 The JavaScript is most popular scripting languages and it developed by Netscape and used to develop the client side web applications.
 
-Is JavaScript Case Sensitive?
+#Is JavaScript Case Sensitive?
 Yes! JavaScript is a case sensitive because a function “str” is not equal to “Str”.
 
-What Is the Type of JavaScript?
+#What Is the Type of JavaScript?
 There are different of Type as given below.
 1.      String, 
 2.      Number,
@@ -14,17 +14,17 @@ There are different of Type as given below.
 6.      Null,
 7.      Undefined etc.
 
-What Types of Boolean Operators in JavaScript?
+#What Types of Boolean Operators in JavaScript?
 There are three types of Boolean operators as given below.
 1.      AND (&&) operator, 
 2.      OR (||) operator and 
 3.      NOT (!) Operator
 
-What Is the Difference Between “==” and “===”?
+#What Is the Difference Between “==” and “===”?
 The double equal “==” is an auto-type conversion and it checks only value not type.
 The three equal “===” is not auto-type conversion and it check value and type both.﻿
 
-The real example as given below –
+#The real example as given below –
 if(1 == ”1”)
 //Its returns true because it's an auto-type conversion and it checks only value not type.
 
